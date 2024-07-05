@@ -2370,6 +2370,10 @@ a {
 .cid-ueYCrHBaaj .content-head {
   max-width: 800px;
 }
+.cid-ueYCrHBaaj .list,
+.cid-ueYCrHBaaj .item-wrap {
+  text-align: left;
+}
 .cid-udMQcAvCDY {
   padding-top: 2rem;
   padding-bottom: 1rem;
